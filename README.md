@@ -27,7 +27,7 @@ Ibrahim Taqieddin
 
 [organizations link](https://task-organizer.github.io/Main-Task-Organizer/)
 
-[live link](https://osamadasooky.github.io/task-orgnization/task.html)
+[live link](https://osamadasooky.github.io/task-orgnization/)
 
 [trllo](https://trello.com/b/YStX5fIr/project)
 
